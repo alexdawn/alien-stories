@@ -1,0 +1,40 @@
+{
+    "Full Name": "Dallas, A. J.",
+    "career": "officer",
+    "Job": "Captain",
+    "sex": "male (natural)",
+    "nationality": "American",
+    "date of birth":  "27 Feb 2076",
+    "Age": 40,
+    "place of birth": " Wolf Point/Montana-UA",
+    "id":  "032/V407C",
+    "clearance": "FLT:  B    SEC:  AB    MEN:  AB    PHY:  B",
+    "Personality": "Laid Back, mistrustful, adverse to quick decisions, loyal to crew",
+    "Description": "
+    15 May 2099 : Graduates Mercerton Flight Academy. (Flight Status C)
+    11 Mar 2100 – 09 Jan 2103 : Serves as Navigator/Pilot on USCSS Snark salvage vessel, under Captain Van Shuyten. (Flight Status B)
+    23 Jan 2103 – 04 Dec 2105 : Serves as Pilot on UTX Ganymede military cargo vessel, under Captain Britten.
+    01 Jun 2106 : Commissioned into United Americas Outer Rim Defense Fleet (UAORD).  Stationed at Liberty Echo.  (Rank: Lieutenant)
+    14 Jun 2106 – 17 Feb 2108 : Serves as Pilot on UAS Leviathan fast attack vessel, under Major Baines, during Torin Prime Civil War. (Flight Status A)
+    23 Feb 2108 : Promoted to Captain following Liberation of Torin Prime.  Receives the Sunburst Medal of Honor for meritorious service.
+    01 Mar 2108 :  Given command of UAS Archangel troop carrier. (Flight Status AA)
+    25 Dec 2109 :  UAS Archangel destroyed in enemy attack during peace-keeping operation on Thedus.  15,293 lives lost.  Ship unsalvageable. (Flight Status Suspended)
+    03 Jan 2110 :  Receives Dishonorable Discharge from UAORD. {Flight Status Revoked)
+    04 Jan 2110 – 28 Apr 2113 : Whereabouts unknown. No further enhancement.
+    28 Apr 2113 – 09 Sep 2113 : Smuggles weapons and medical supplies into the Solomons on civilian cargo vessel The Vidar, under Captain Joshua.
+    14 Dec 2113 – 04 May 2114 :  Freelances special transport ops of hazardous materials for Weyland-Yutani in the Solomons. (Probationary Flight Status D)
+    21 Jul 2114 – 03 Dec 2118 :  Purchases civilian cargo vessel Tremolino.  Freelances cargo and transport ops for Weyland-Yutani throughout the Outer Rim Territories. (Flight Status C)
+    07 Dec 2119 :  Tremolino decommissioned. Crew disbanded.
+    04 Jan 2120 – present :  Given command of Weylan-Yutani commercial towing vehicle USCSS Nostromo. (Flight Status B)
+    ",
+    "Appearance": "Hairy",
+    "Attributes": {"Strength": 3, "Wits": 3, "Empathy": 3, "Agility": 5},
+    "Health": 3,
+    "Skills": {"Commtech": 3, "Command": 1, "Ranged Combat": 2, "Piloting": 3},
+    "Talent": "Pull Rank",
+    "Signature Item": "Sunburst Medal of Honor",
+    "Gear": [],
+    "Buddy": "Ripley - a long standing friend, first time you are stationed together",
+    "Rival": "Ash - nothing personal but you resent him for replacing your regular Science Officer",
+    "Personal Agenda": "You mistrust the company, but you can't give any excuse for them to suspend your flight status"
+}

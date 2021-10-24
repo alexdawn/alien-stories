@@ -1,0 +1,40 @@
+{
+    "Full Name": "Ripley, E. L.",
+    "career": "officer",
+    "Job": "Warrant Officer",
+    "sex": "Female (natural)",
+    "nationality": "United Americas",
+    "date of birth":  "07 jan 2092",
+    "Age": 30,
+    "place of birth": "Olympia/Luna-UA",
+    "id":  "759/L2-01N",
+    "clearance": "FLT:  B    SEC:  B    MEN:  AB    PHY:  AB",
+    "Personality": "level headed, honourable, determined, by the book",
+    "Description": "
+  07 Jan 2092 – 18 Apr 2110 :  Spends childhood in lunar quarantine facility during outbreak of XMB virus on Luna. Tests negative for XMB. (Medscan CERT#90156E.)
+15 Sep 2111 – 25 May 2115 :  Attends Evansbrook Academy. Shows aptitude for ethics, law and corporate affairs. Graduates at top of her class.
+01 Jun 2115 :  Recruited into Weylan-Yutani’s Horizon Beyond officer training program. (Trainee Flight Status CC)
+16 Oct 2115 :       Successfully negotiates end to hostage crisis on Weylan-Yutani shuttle craft Erebus. 49 lives saved.  8 terrorists convicted.
+21 Dec 2116 :  Completes Horizons Beyond officer training program, with honors.
+02 Jan 2117 – 19 Nov 2117 :  Serves as Junior Warrant Officer on commercial cargo vessel USCSS Kurtz, under Captain Archbold. (Flight Status BC)
+01 Dec 2117 – 08 Mar 2118 :  Serves as Warrant Officer on Weylan-Yutani cargo vessel USCSS Sephoria, under Captain Eliot.
+10 Mar 2118 :  Request for maternity leave DENIED.  (WY/REF#29150). See HUMAN RESOURCES for further enhancement.
+17 Mar 2118 :  Files civil lawsuit against Weylan-Yutani. (WY/REF#29162)
+18 Mar 2118 :  Flight status suspended. Salary suspended.
+04 Apr 2118 – 19 Aug 2118 :  >FILE SEALED UNDER COURT ORDER< No further enhancement. (WY/REF#42009)
+19 Aug 2118   Request for maternity leave APPROVED.  (WY/REF#42017) See LEGAL (SETTLEMENTS) for further enhancement. Request for reinstatement of flight status APPROVED. (WY/REF#42018) Request for salary increase APPROVED.  (WY/REF#42019)
+19 Sep 2119 – 27 Oct 2119 :  Maternity leave. See HUMAN RESOURCES for further enhancement.
+06 Nov 2119 – 12 Jul 2120 :  Serves as Warrant Officer on Weylan-Yutani cargo vehicle USCSS Sotillo, under Captain Rosendo.
+10 Aug 2120 – present :  Serves as Warrant Officer on Weylan-Yutani commercial towing vehicle USCSS Nostromo, under Captain Dallas. (Flight Status B)
+    ",
+    "Appearance": "Impressive hair",
+    "Attributes": {"Strength": 4, "Wits": 5, "Empathy": 5, "Agility": 4},
+    "Health": 4,
+    "Skills": {"Heavy machinery": 2, "Observation": 2, "survival": 2, "Commtech": 2, "Command": 2, "Manipulation": 2, "Ranged Combat": 2, "mobility": 1, "Piloting": 1},
+    "Talent": "Pull Rank, Nerves of Steel, Stoic",
+    "Signature Item": "Photo of daughter",
+    "Gear": [],
+    "Buddy": "Dallas",
+    "Rival": "Brett and Parker",
+    "Personal Agenda": "Get back to Earth to see your daughter"
+}

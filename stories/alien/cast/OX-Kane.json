@@ -1,0 +1,37 @@
+{
+    "Full Name": "Kane, G. W.",
+    "career": "officer",
+    "Job": "Executive Officer",
+    "sex": "male (natural)",
+    "nationality": "United Kingdom/EU  (Dual)",
+    "date of birth":  "20 Apr 2083",
+    "Age": 39,
+    "place of birth": "Borehamwood/Herts-UK/EU",
+    "id":  "825/G9-01K",
+    "clearance": "FLT:  A    SEC:  B    MEN:  A    PHY:  B",
+    "Personality": "idealist, former drug addict and alcoholic, overachiever, reckless, unimaginative, likeable",
+    "Description": "
+11 Sep 2096 – 23 May 2100 :  Attends Weatherly Private School. Graduates with honors.
+19 Sep 2100 – 30 May 2104 :  Attends Gunning Foss Military School. Graduates at top of his class.
+06 Sep 2104 – 13 Feb 2108 :  Attends Bryce-Watkins Medical University.  Expelled for substance abuse.  Treated for drug-inflicted embolism and stress. Treatment SUCCESSFUL. (Medscan CERT#81712F)
+16 Sep 2108 – 18 May 2112 :  Attends Wellington Academy (Suffolk.)  Graduates with Masters of Engineering. (Flight Status C)
+28 Oct 2112 – 02 Nov 2113 :  Participates in UK/EU archeological dig on Konor Minor.  Co-supervises Eldorado Exploring Expedition with Dr. Elisabeth Monygham.
+17 Jun 2114 :  Marries Dr. Elisabeth Monygham. (JCL#67-2309)
+09 Jun 2115 :  Dr. Elisabeth Monygham killed in decompression accident on Kellerat (LB-329).
+01 Dec 2115 :  Request for reassignment APPROVED. (UK/EU REF#2109EB/03)
+14 Dec 2115 – 29 Oct 2117 :  Serves as Mission Analyst on UK/EU colonial expedition in the Outer Rim Territories. (Flight Status B)
+01 Nov 2117 – 13 Jul 2118 :  Serves as First Officer on UK/EU colonial transport vessel HMS Sabretooth, under Captain Redd. (Flight Status BA)
+21 Sep 2118 – 19 Dec 2119 :  Serves as Executive Officer on Weylan-Yutani salvage vessel USCSS Kenamor, under Captain Kahn. (Flight Status AB)
+05 Jan 2120 – present :  Serves as Executive Officer on Weylan-Yutani commercial towing vehicle USCSS Nostromo, under Captain Dallas. (Flight Status A)
+    ",
+    "Appearance": "friendly smile",
+    "Attributes": {"Strength": 3, "Wits": 4, "Empathy": 5, "Agility": 2},
+    "Health": 3,
+    "Skills": {"Heavy machinery": 2, "Observation": 1, "Commtech": 3, "Medical": 2, "Ranged Combat": 1, "Piloting": 1},
+    "Talent": "Reckless, Airlock Phobia",
+    "Signature Item": "Wedding ring of dead wife",
+    "Gear": [],
+    "Buddy": "",
+    "Rival": "",
+    "Personal Agenda": "Continue Elisabeth's quest to find evidence of extant alien civilisation"
+}

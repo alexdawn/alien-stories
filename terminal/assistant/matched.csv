@@ -1,0 +1,439 @@
+## https://campaign-community.com/index.php?threads/realistic-science-fiction-rpg-star-maps.1131/
+## source https://pastebin.com/raw/jwf85iHs
+## source https://docs.google.com/document/d/10BDGXzp9u2VQQRF8hcRdVzWoCBpdr5K7U5l2Zxt8SBE/edit
+## double check all HD Catalogs
+
+HabHyg,SystemName,Locations,Pol,method,link,description
+
+0,Sol,Earth; Mars; Luna; Pendleton Base; Cosmodrome Station,Mixed,name
+# Io, Jupiter penal WY mining colony, Kelland Mining Co HQ, site of outland movie
+# L-5 (Earth-Moon) station, UPP
+# L-4 O'Neill Station, UA
+# Luna https://avp.fandom.com/wiki/Luna Luna Colony, Plymouth, Olympia, Tranquility Base
+
+3390, 17 Phei Phei,Znoy Outpost,UPP,coord, "Russian for Hot, UPP monitoring station Pg 258"
+## or 8678 17 Phei Phei (Znoy Outpost) (-1, -4).
+
+1451, 2M 0746+20,Shambleau; Gorgon; Medusa,???,coord,"All names for creatures with snake hair"
+## 1442/1451 2M 0746+20 (Shambleau, Gorgon, Medusa): -11, -4 39.82 Light Years
+
+1326, 31 Tau Hydrae,Xian; Mt-067,Frontier,name,ARPG
+1047,4 Tau Boötis,GBH-45,3WE,name,ARPG
+22793,78 Nu Ceti,Myssa 340; Tanburo Station "Misery",UA,name,https://avp.fandom.com/wiki/Myssa_340,"Breathable"
+107,AG-4550,Alexandria,ICSC,coord,ARPG pg 249, "Earth like, corporate haven"
+1903,Aldebaran,,Unaffiliated,name
+1917,Alpha Caeli,The Solomons; Alpha Caeli Vg,UA,name,https://avp.fandom.com/wiki/Alpha_Caeli,"The system houses a network of seven moons orbiting the gas-giant Alpha Caeli V called the Solomons, United States Colonial Marine Corps Eridani Marine Space Force maintained a garrison on the seventh moons. [1] Seegson also possessed one of their home offices on the Solomons.[2]"
+## Pg 267
+1252,Crestus Prime,,UA,coord
+## binary system? 1252/1253
+1553,Epsilon Reticuli,Thedus; LNB-14,UA,name,https://avp.fandom.com/wiki/Thedus,"Mining World, Cold breathable, mountains and cayon, miners revolt, crash site of UAS Archangel"
+6368,Fiori 16,Fiorina "Fury" 161,3WE,coord
+949,Gliese 163, Z.C.T. Corp Charon Base; Charon 13 Geothermal Station,Frontier,name,https://avp.fandom.com/wiki/Gliese_163,"Charon 13 was a desolate rimworld asteroid in a forgotten system and the site of both Xenomorph and Yautja activity.[1] PS-3 was a geo-thermal processing station built to siphon energy from the planet's core, more than five miles straight down. It was destroyed when, weakened by combat, the bracing struts crumbled and the entire station fell into the magma.[1]"
+
+2279,GJ2077,Gimeno Station,???,name,https://avp.fandom.com/wiki/Gimeno,"Jungle Planet, with orbital station, factory on volcano, warm, oceanaic, birds"
+## ERROR IN SOURCE? 2398 GJ2007 (Gimeno Station): -16, -14
+## 2279 GJ2077 (Gimeno Station): -15.5, -14. Frontier. Distance: 21.74 ± 2.36 pc 
+
+## ERROR is it GL1401 or GL140?
+1855,GL140.1B,Wright-Aberra 2 Fuel Depot; Tirgu-Mires,Frontier,name,https://avp.fandom.com/wiki/Gliese_1401,"Fuel Station destroyed by UA marines. Agricultural Colony World, Forested, Desert, Rock, Acid Resistant Flora"
+## 1855 GL140.1B (Wright-Aberra 2 Fuel Depot, Tirgu-Mires): -0.5, -12.5. Frontier. Distance: 19.61 ± 4.08 pc 
+
+2788,GL 199, GL199A; RF/C16,Frontier,name,https://avp.fandom.com/wiki/RF/C-16,"Breathable, Mining and Research"
+
+## can calc coordinates from wiki page: https://en.wikipedia.org/wiki/HAT-P-13
+## XXX,HAT-P-13,Zeus Colony(13cm),UPP,coord,https://avp.fandom.com/wiki/HAT-P-13cm,"Moon with Solar and Gas"
+## 13294? (not far enough away) HAT-P-13 (Zeus Colony): -3, 1. UPP. HAT-P-13, also known as GSC 03416-00543, is a G-type main sequence star approximately 811 light-years away in the constellation Ursa Major.
+
+5879,HD 10180,Hex-5,Frontier,name
+## 3816? 5879? (not far enough) HD10180 (Hex-5): 6, -14.5. Frontier. Distance [lightyears] 126.8±1.1
+
+4455,HD 10697 109 Piscium,Tagg Colony(bm),UPP,name,https://avp.fandom.com/wiki/HD_10697,"Breathable Vast canyon netwrork"
+## 4455 HD10697 (aka 109 Piscium) (Tagg Colony): -1.5, 1.5. UPP. 109 Piscium 108 ly away
+
+7678,HD 202206,Henri Gaston Colony,3WE,name,https://avp.fandom.com/wiki/HD_202206,"Breathable, Weyland Cybernetics Logic Design and Research Facility"
+13563,HD 86264,Statler Colony (bm),3WE,name,https://avp.fandom.com/wiki/HD_86264bm,"Terraformed, 7.6M, Large Spaceport"
+## 13563 HD86264 (Statler Colony): -0.5, -2. Three Worlds Empire. 224 ly away
+
+189,Heske 262,Relitor,ICSC,coord
+## 189 Heske 262 (Relitor): 1.5, -2. Independent Core System Colonies.
+
+3090,Heske 337,Volcus; Etna,ICSC,coord
+3091,Heske 337,Volcus; Etna,ICSC,coord
+## 3090/3091 **Heske 337 (Volcus, Etna): 1.5, -1.5. Independent Core System Colonies. Pg 250.**
+
+255,Heske 441,Dustball,Frontier,coord
+## 255 or 14585 Heske 441 (Dustball): 2.5, -5. Frontier.
+
+1044,HR 2007,Gamma III,???,name
+## 1044 HR 2007 (Gamma III): -13, -7 49.7 lightyrs 
+
+1266,HR 2225,Bowen's Landing,UA,name
+## 1266 HR2225 (Bowen's Landing): -10.5, -12.5. United Americas. Distance (light year) 54.42 ly 
+
+1843,HR 2429 (7 Nu 2 Canis Majoris),Byal Station,UA?,name
+## 1843 HR 2429 (Byal Station): -12.5, -14.5 Distance 64.4 ± 0.3 ly NOTE USCSS Charlize destination
+
+1038,JPG118,Shinon,3WE,coord
+## 1038? (two others) JPG118 (Shinon): 3.5, -4. Three Worlds Empire.
+
+160,JPG-770,Gorham's Folly,3WE,coord,ARPG,"Mining Planet"
+## 160?? (less close) **JPG-770 (Gorham's Folly): 5.5, -1.5. Three Worlds Empire. Pg 252.**
+
+1040,JPG 973,Tark Weyland Station(c),3WE,coord,https://avp.fandom.com/wiki/JPG-973c,"Breathable, WY Research Base, pop 67, bacterial colonies"
+## JPG is a fictional designation
+
+## KOI kepler object of interest (not in Hip)
+## XXX,Kepler 22B,Pozhalujsta and Vanderaat colonies,UPP,name,https://avp.fandom.com/wiki/Kepler-22b,"Terraformed, Low G, Rich Metals, 17M pop"
+## XXX KOI-1422 (Tzu Chi City): 1, 7.5. UPP. Primary system name Kepler-296 Distance [lightyears] 1822
+## XXX KOI-1871 (Kahn Outpost): 2, 9.5. UPP. No match at http://www.openexoplanetcatalogue.com/
+## XXX KOI-227 (Hualien Colony) https://avp.fandom.com/wiki/KOI-227.01: 0.5, 2. UPP. KOI-227/KIC 6185476
+## XXX KOI-2311 (Hui Outpost): 3.5, 9. UPP. Primary system name Kepler-1185 Distance [lightyears] 1518±16
+## XXX KOI-2410 (Themis Outpost): 1.5, 7. UPP. No match in http://www.openexoplanetcatalogue.com/
+## XXX Kepler-1663b (KOI-252),September Outpost; Sentryabr Base, 1.5, 9. UPP.https://avp.fandom.com/wiki/KOI-252.01 No match at http://www.openexoplanetcatalogue.com/
+## XXX Kepler-505b (KOI-255),Honshu Colony, 1.5, 5.5. UPP. Primary system name Kepler-505 Distance [lightyears] 932±6
+## XXX KOI-2626 (Sevodnya Colony): 1, 6.5. UPP. Primary system name Kepler-1652 Distance [lightyears] 822+104−98
+## XXX KOI-2770 (Izvinte Outpost): 1.5, 8.5. UPP. No match in http://www.openexoplanetcatalogue.com/
+## XXX Kepler-155b (KOI-438), Horizon City: 0.5, 5.5. UPP. https://avp.fandom.com/wiki/KOI-438.02 Primary system name Kepler-155 Distance [lightyears] 986
+## XXX Kepler-159c (KOI-448), M'Toa Colony: 2.5, 6.5. UPP. https://avp.fandom.com/wiki/KOI-448.02 Primary system name Kepler-159 Distance [lightyears] 1493
+## XXX Kepler-577b (KOI-494), Angkor Colony: 1, 4.5. UPP. https://avp.fandom.com/wiki/KOI-494.01 Primary system name Kepler-577 Distance [lightyears] 1736±25
+## XXX Kepler-186d (KOI-571), Corinth Colony, Ouragon): 1, 4. UPP. Primary system name Kepler-186 Distance [lightyears] 492±59
+## XXX Kepler-225c (KOI-736), Davos Colony: -6.5, 3.Frontier. https://avp.fandom.com/wiki/KOI-736.01 Primary system name Kepler-225 Distance [lightyears] 1116
+## XXX KOI-812 (Ruby Colony): 0.5, 2.5. Three Worlds Empire. Primary system name Kepler-235 Distance [lightyears] 1714
+## XXX KOI-898 (February Outpost): 2, 8.5. UPP. Primary system name Kepler-83 Distance [lightyears] 2021
+## XXX KOI-899 (Echo Outpost): 2, 8.5. UPP. Primary system name Kepler-249 Distance [lightyears] 753
+## XXX KOI-952 (Huan Ying Colony): 0.5, 5. UPP. Primary system name Kepler-32 Distance [lightyears] 1301
+## XXX KOI-268 (June Outpost), https://avp.fandom.com/wiki/KOI-268.01
+## XXX Kepler-138c KOI-314,Atlas City https://avp.fandom.com/wiki/KOI-314.02
+## Kepler-523 (KOI-323.08), Platte Research Facility
+## Kepler-560b (KOI-463.01), Hera City, https://avp.fandom.com/wiki/KOI-463.01
+## Kepler-622b (KOI-610.01), May Outpost https://avp.fandom.com/wiki/KOI-610.01
+## Kepler-205c (KOI-663.02), Lutetia Colony https://avp.fandom.com/wiki/KOI-663.02
+## Kepler-62d (KOI-701.03), December Outpost https://avp.fandom.com/wiki/KOI-701.03
+## Kepler-222 (KOI-723.06) https://avp.fandom.com/wiki/KOI-723.06
+## Kepler-231c (KOI-784.01) Dylan City https://avp.fandom.com/wiki/KOI-784.01
+## KOI-817.01 Brahms Outpost https://avp.fandom.com/wiki/KOI-817.01
+## XXX KOI-2124,Nomron Colony,???,name,"Clartes Mountains project colony from sandstorms"
+## 486 or 1075 Konor Minor: 5, 2. UPP.
+## XXX LHS-1140: -5, 11 Distance [lightyears] 48.89±0.07
+## XXX GJ 3512 LHS-252 (Kauffma), Site of former Station RB-232,Unaffiliated,name,https://avp.fandom.com/wiki/Kauffman,"Xeno behavioural research lab"
+
+1212,NN 3082,Alamar,3WE,name
+## 1212? (wrong location) NN3082 (Alamar): 6.5, -14.5. Three Worlds Empire. 57.2ly away
+
+1535,NN 3293,PCW9512,???,name
+## 1535 NN3293 (PCW9512): -12.5, -12 60ly / 18pc out
+
+2904,NN 3346 Tanaka's Star,Tanaka 5,UA,name,https://avp.fandom.com/wiki/Tanaka_(System),"Desert, sandstorms, strange ruins, Breathable, Tanakan Scopionids"
+## 2904 **NN3346 (Tanaka's Star, Tanaka 5): -18.5, -15. United Americas. Pg 271.**
+
+1791,NN 3419,LV-492,UA,name,
+999,NN 3503,Helix,Frontier,name
+1586,NN 3530,Cristobal,Frontier,name,https://avp.fandom.com/wiki/Crist%C3%B3bal,"Colony, Miners Strike, AmArc"
+1191,NN 3553,Scorcher,Frontier,name
+1181,NN 3563,Icarus,Frontier,name
+1056,NN 3666,Cyrus,Frontier,name
+2690,NN 4374,O'Bannon's World?,Frontier?,name,"CMOM campaign","Jungle world"
+2168,Nu Octanis,LV-138,???,name
+25671,Omicron Ceti,Mire Ceti IV,3WE,name,https://avp.fandom.com/wiki/Mira_Ceti_4,"Former religious Colony, Mining for Omni-tech"
+1554,PI Mensae B HD39091B,Olympia Colony (bm),ICSC,name,https://avp.fandom.com/wiki/HD_39091,"Breathable, canyon network 10M pop"
+
+89,POL-3191, Coren; Apta(cc),3WE,coord,https://avp.fandom.com/wiki/POL-3191_Cc,"microfauna"
+## 89 (or 4 others) POL-3191  not sure if POL is a planet or star designation?
+
+187,POL-5360,Wilson Scarps Asteroid,3WE,coord
+814,POL-5362,Aires Outpost,3WE,coord
+## 814 or 1086 **POL-5362
+
+554,???,Jacob-Tallis (POL-6362),3WE,coord,https://avp.fandom.com/wiki/POL-6362,"Aquatic Microfauna"
+## 554 (or 3 others) POL-6362 (Jacob-Tallis): -2, 10. Three Worlds Empire.
+
+268,POL-6387,Atol,3WE,coord
+## 268/278 (or 3 others) POL-6387 (Atol): -8, 2. Three Worlds Empire.
+
+155,POL-9414,Nimbus,Frontier,coord
+## 155 or 315 or 10729 POL-9414 (Nimbus): 7, 1.5. Frontier.
+
+863,P Pelops,Pylos; Sphacteria Fuel Depot,Frontier,coord,https://avp.fandom.com/wiki/Pylos,"Pylos is a gas giant"
+## 863/864 or 1096 or 1756 P Pelops (Pylos, Sphacteria Fuel Depot): 0.5, 10. Frontier.
+
+1623,Psi Velorum,Achilles Two-IV; G435 "Xenomorph Prime",Unaffiliated,name,https://avp.fandom.com/wiki/Psi_Velorum,"4th planet has a biosphere hive world"
+## 1623 **Psi Velorum (Achilles Two-IV, G435, Hive World): -16.5, -10. Pg 279.** GJ351 18pc out
+
+2825,Regulus,,Frontier,name
+## 2825 Regulus: -16, -15. Frontier. Distance 79.3 ± 0.7 ly
+
+1229,Requist,DP-27,UA,coord
+## 1229 **Requist (DP-27): 8.5, 0.5. United Americas. Pg 260.**
+
+## XXX **Third Base: UNKNOWN. Within Core System. United Americas. Pg 248.**
+## XXX Trappist 1: 4, 11.5 Distance 40.54 ± 0.06 ly
+## 564 or 611 or 1427 or 27395 Tycho 2-2000 (LV-832): 7, -8.5. Frontier. Catalog name and epoch...
+
+39,Xarmina's Star,Xarem,3WE,coord
+## 39 or 457 or 1887 Xarmina's Star (Xarem): 3, 0. Three Worlds Empire.
+
+816,α,,UA,coord
+## 816 α: 7, 4. United Americas.
+817,β,,UA,coord
+## 817 or 1633 β: 7, 3.5. United Americas.
+1252,γ,,UA,coord
+## 1252?? γ: 7.5, 2.5. United Americas.
+1253,Δ,,UA,coord
+## 1253?? Δ: 7.5, 2.5. United Americas.
+
+## Following sourced from online
+## https://avp.fandom.com/wiki/Alpha_Centauri_3
+# Rigel 5 https://avp.fandom.com/wiki/Rigel_Five
+1,Proxima Centauri,Jon Eve Station,3WE,online,https://avp.fandom.com/wiki/Alpha_Centauri
+2,Rigel Kentaurus B (Toliman),B54C,3WE,online,https://avp.fandom.com/wiki/Alpha_Centauri,"https://avp.fandom.com/wiki/B54C"
+3,Rigel Kentaurus A,Aurore 510; Redlake ASF Base,3WE ,online,https://avp.fandom.com/wiki/Alpha_Centauri,"The United States Colonial Marine Corps's Sol Marine Space Force Redlake Field ASFB is located on the fifth planet orbiting Rigil Kentaurus, in geosynchronous orbit of the planet is Glenn GSO station and two ready to deploy USCMC reserve regiments are also stationned on it.[1] A small planet called B54C with a research outpost on it was orbiting Toliman before being destroyed by an Engineer ship.[2]"
+4,Barnard's Star,,3WE,online
+5,Wo359 Gl 406,Lobo,3WE,online
+6,Lalande 21185,Oryza,3WE,online,https://avp.fandom.com/wiki/Oryza,"Agricultural Colony"
+10,Sirius,,3WE,online
+11,Ross 154 Gl 729,New Chicago,3WE,online
+13,18 Epsilon Eridani,,3WE,online
+
+## Appears as two systems on the map mistakenly Gl 447 and Ross 128
+14,Ross 128 Gl 447,Ross 128b; Motinea,3WE,online,https://avp.fandom.com/wiki/Motinea,
+18,Procyon,,UPP,online
+20,61 Cygni A,,UPP,online
+21,61 Cygni B,,UPP,online
+22,Groombridge 34 GQ Andromedae,,UPP,online
+24,Groombridge 34 GX Andromedae,,UPP,online
+25,52 Tau Ceti,Nene 246 Ezell ASF Base,UPP,online,https://avp.fandom.com/wiki/Nene_246,"Breathable"
+27,Epsilon Indi,New Eden JV,ICSC,online
+28,Luyten's Star,,UPP,online
+29,Kapteyn's Star,,3WE,online
+31,DO Cephei,,???,online
+32,Kr�ger 60,Fort Nebraska; Ariarcus,UA,online
+36,GL473A FL Virginis A,Crysalis,ICSC,online
+37,GL473A FL Virginis B,Crysalis,ICSC,online
+38,Gl 563.2B,Ventix,ICSC,online
+40,Gl 1,Starview,ICSC,online
+41,Van Maanen's Star,,UPP,online
+44,NN 3522,C-3L/M LTT-12352,3WE,online
+45,GL422 Innes' Star,LTT-4167 RWL-1289,UA,online
+46,NN 3622,Goliath,ICSC,online
+47,Gl 563.2,Exeter,ICSC,online
+48,GJ 674 Gl 674,Hilo,ICSC,online
+49,GJ 687 Gl 687,,UPP,online
+50,Gl 440,Paragon,ICSC,online
+55,Gliese 876 (IL Aquarii),Xiwang Colony(867b); Chiu Outpost (867c); Wan An Outpost (867d),UPP,online,https://avp.fandom.com/wiki/Gliese_876,
+59,Groombridge 1618,,UPP,online
+60,Hip 82725,Fantasia,ICSC,online
+## Sector 3847
+62,GJ382 Gl 832,Celeste Asteroid,ICSC,online,https://avp.fandom.com/wiki/Celeste,"Terraformed asteroid"
+63,40 Eridani B,Avozka Sector Base,UPP,online
+66,GJ 682 Gl 682,Marduk,ICSC,online
+68,Gl 702 B,Georgia; 525 Chinook 91 GSO Station,UA,online
+69,70 Ophiuchi,Georgia 525; Chinook 91 GSO Station,UA,online,https://avp.fandom.com/wiki/70_Ophiuchi,"The headquarters of the United States Colonial Marine Corps's Herculis Marine Space Force are located on the fifth planet orbiting 70 Ophiuchi A.[1]"
+70,Altair,,UA,online
+77,LHS-26 Gl 169.1B,Perdition,UPP,online
+78,LHS-26 Gl 169.1,Perdition,UPP,online
+81,HIP53020 Gl 402,LV-895; Pala Station; Site two,Frontier,online,https://avp.fandom.com/wiki/LV-895,"Jungle, Research Station, Mutated Creatures"
+84,GL754.1B Gl 754,Sargon IV,Frontier,online,https://avp.fandom.com/wiki/Sargon_IV,"All just rocks - C. Thomspon"
+87,Gl 251,Red Rock,3WE,online
+88,Gl 213,Soulages,3WE,online
+## Tartarus Sector
+89,GJ229A BD-21�1377,Torin Prime pg264,UA,online,https://avp.fandom.com/wiki/Torin_Prime,"Civil War, Terrestial Planet, Mountainous"
+90,Gl 693,Morningstar,3WE,online
+## Tartarus Sector,Outer Rim, Alpha Linna?
+92,Gl 300,Linna 349 pg264; Neusheune; Trobriands; Harare,3WE,online,https://avp.fandom.com/wiki/Gliese_300,"
+94,GL 285 YZ Canis Minoris,Delorme,Frontier,online
+96,Gl 588,Saint John,ICSC,online
+100,24 Eta Cassiopeiae,,UPP,online
+106,GL 783B,Aerodyne Chalmer-3,ICSC,online
+## close to Alexandria??,online
+107,82 Eridani,Helene 215; Tokonigara Colony; Shinowa Colony; Happy Days Base (UA),3WE,online,https://avp.fandom.com/wiki/82_Eridani,"Helene 215 is the 2nd planet, jungle, UA conflict with the 'beebops'"
+109,Delta Pavonis,Surier 430; Kuat ASF Base,UA,online,https://avp.fandom.com/wiki/Delta_Pavonis
+110,Gl 783,Aerodyne Chalmer-3,ICSC,online
+112,GJ 1128,Keystone,3WE,online
+## outer veil sector 3847
+121,GJ 581 (HO Librae),Unity City (581d); Coronado Colony (581g); Gedda (581g.02),3WE,online,https://avp.fandom.com/wiki/Gliese_581,"Two terraformed industrial worlds and a moon with micro-fauna"
+125,Gl 268,Station 949,Frontier,online
+127,Gl 223.2,Khadaji Lebanon II pg266,Frontier,online
+128,GJ 1156,Honeycomb,Frontier,online
+129,Gl 643,New Kiev; MSS Sector HQ,UPP,online
+130,HD219134 Gl 892,,UPP,online
+131,Gl 408,Liberty Echo,UA,online
+132,GJ625 Gl 625,,UPP,online
+134,37 Xi Boötis,,UPP,online
+136,Ross 619 Gl 299,Skyfire Down,Frontier,online
+137,NN 4285,Grendel,ICSC,online
+139,Gl 293,LV-229,UA,online
+## sector 3847
+143,Gl 667,Levon Colony (667Cb); Dante Colony (667Cd); Morrison Outpost (667Cc), UA,online,https://avp.fandom.com/wiki/Gliese_667, "FTL Research, Mining, and WY extension school"
+145,268 G. Ceti Gl 105 B,Traon,Frontier,online
+148,268 G. Ceti Gl 105,Traon,Frontier,online
+149,HIP 51317 BD+01�2447,Former site of Mendel Station,UA,online
+150,NN 4053,Lacerta,UPP,online
+152,GJ1230AB GJ 1230,Sahara Grandhi,Frontier,online
+153,GJ1230AB GJ 1230 B,Sahara Grandhi,Frontier,online
+154,GJ 2005,Transept,Frontier,online
+155,GJ 1224,Chitin,Frontier,online
+156,NN 4274,O'Bannon's World,Frontier,online,"Jungle World, described in AlienRPG_CMOM"
+157,Beta Hydri,,UA,online
+164,30 Mu Cassiopeiae,,UPP,online
+166,GL 514 BD+11�2576,LB-329; Kellerat,UA,online
+167,GL879 TW Piscis Austrini,Eyesore,UA,online
+170,Fomalhaut,,Frontier,online
+173,Gl 915,Micor,UA,online
+174,GL382 BD-03�2870,Temple,Frontier,online
+176,Vega,Vega 4; New Shanghai,UPP,online,https://avp.fandom.com/wiki/Vega_4,"Earth like"
+177,NN 3789,LK-176,Frontier,online
+179,LV-797 Gl 257 B,Tartarus,UA,online
+182,LV-797 Gl 257,Tartarus,UA,online
+187,GJ 2034,Argos,Frontier,online
+188,GJ 1123,Ferro,UA,online
+189,Gl 493.1,Morning Glory,UA,online
+191,GJ 1276,Donovoy Base,UPP,online
+198,Gl 884,Solano,UA,online,https://avp.fandom.com/wiki/Solano,"Has a Moon"
+201,GJ 1227,Kawlang,UPP,online
+202,Gl747,Plymouth,Frontier,online
+203,Gl747B,Plymouth,Frontier,online
+204,GJ 1105,Rim,Unaffiliated,online,https://avp.fandom.com/wiki/Gliese_1105,"xeno infesteation, mirror of LV-426"
+206,Gl 595,Taurus 7,UA,online
+214,8 Beta Canum Venaticorum,,Frontier,online
+215,86 Mu Herculis,Bernice 378; Tithonus Mt ASF Base; Mu Herculis A III,UA,online,https://avp.fandom.com/wiki/Bernice_378
+220,GJ 1154,LV-422,UA,online
+223,61 Virginis,Summit,UA,online
+227,Zeta Tucanae,,UA,online
+238,GJ1103,Deadfall,UA,online
+239,GJ1103B,Deadfall,UA,online
+243,GL791.2,HU Delphini,UA,online
+247,Gl 785,,UA,online
+247,HR7722 Gl 785,Nivalis-4,UA,online,https://avp.fandom.com/wiki/Nivalis-4,"Icy world, 25 WY employees, Synth fabrication plant"
+248,GL849 BD-05�5715,Pandora,UA,online
+260,23 Delta Eridani,,Frontier,online
+261,13 Gamma Leporis,Terraform 3 pg269,Frontier,online,https://avp.fandom.com/wiki/Gamma_Leporis#Canon,"Three habitable, one colonized, cattle pastures, ghost ship sightings"
+265,SZ Ursae Majoris,,Unaffiliated,online
+271,96 Kappa 1 Ceti,,Unaffiliated,online
+272,GJ 2066,Anchorpoint Station,Frontier,online,https://avp.fandom.com/wiki/Gliese_2066,"After the destruction of the first station in the Neroïd Sector in 2179, a second Anchorpoint Station was built around 2180 in the system as a refueling station and transit hub to the Far Reach of the American Arm.[1][2]"
+274,Groombridge 1830,,Unaffiliated,online
+275,43 Beta Comae Berenices,,UA,online
+276,Gamma Pavonis,,UA,online
+279,GJ 1253,Luther Colony,3WE,online
+280,NN 3325,Devils Peak,UA,online
+287,289 G. Hydrae Gl 432 B,Arcadian Asteroid Belt,UA,online
+291,289 G. Hydrae Gl 432,Arcadian Asteroid Belt, UA,online
+294,GJ 1001,LV-2824,UA,online
+301,Gl 479,New Galveston (LV-178),UA,online,https://avp.fandom.com/wiki/New_Galveston_(LV-178),"New Galveston,[1] formal designation LV-178,[2] was a planet with 88% of Earth's gravity that was first explored and mined for the mineral trimonite. The mines were eventually closed and the planet abandoned, but many years later it was terraformed and colonized, being formally named New Galveston. There were numerous small settlements, but only three major settlements were connected by train tubes. The "Sea of Sorrows" was an old toxic mining area where miners found a trimonite vein and Xenomorphs. The Sea of Sorrows was where the mercenaries employed by the Weyland-Yutani Corporation began looking for Xenomorph specimens to capture, which resulted in the death of many."
+304,GJ 1256,Stratus Alto VII,Frontier,online
+312,NN 3049,Sullivan 9,UA,online
+317,NN 3119.3B NN 3119,Panamar,Unaffiliated,online
+329,Gl 609,LV-7324,Frontier,online
+332,Alpha Mensae,,UA,online
+339,GL568A Gl 568 B,Haarsa,UA,online
+350,HD122303 BD-01�2892,Alphatech Research Station #2378,UA,online
+351,GL568A Gl 568,Haarsa,UA,online
+## AT?? Microscopii is a constellation,online
+352,HD196982 AT Microscopii,Noble Ore, Frontier,online
+357,Pollux,Thesties; Clytemnestra,UA,online
+358,GL 649 BD+25�3173,LV-8156,Frontier,online
+369,GJ 1265,Symbaris,Frontier,online
+378,Iota Persei,,3WE,online
+385,GJ 1232,Badayaga; Hasanova Data Solutions (LV-991),Frontier,online,https://avp.fandom.com/wiki/Charybdis, "Hasanova Data Solutions is the name of the planet. Iran's National Data Corporation petitioned the IAU that the designation be changed from LV-991 after they acquired the world in a blind bid UPP auction."
+391,Gl 688 BD+03�3465,Stoner-1,UA,online
+400,8 Delta Trianguli,,3WE,online
+403,GL488 BD+00�2989,Ajax,UA,online
+404,40 Zeta Herculis,,UPP,online
+414,5 Beta Virginis,,Unaffiliated,online
+415,GL 519 BD+36�2393,Qi Xi III,UPP,online
+428,GJ 1277,Byron's Hope; ZKH-341,Frontier,online
+433,Denebola,,Unaffiliated,online
+442,Gl 537,Delos,3WE,online
+443,Gl 537 B,Delos,3WE,online
+444,GJ 1187,,UPP,online
+447,GL754.1B Gl 754.1B,Sargon IV,Frontier,online
+448,13 Theta Persei,,Unaffiliated,online
+451,Gl 370,New Earth Colony (b),3WE,online,https://avp.fandom.com/wiki/HD_85512b,"Qurantine! Terraformed Penal Planet, had 40M pop until plague wiped everyone out"
+453,GL754.1B Gl 754.1,Sargon IV,Frontier,online
+# Borodino Sector
+457,,8 Eta Boötis A II; Tientsin pg261,Frontier,online,https://avp.fandom.com/wiki/Eta_Bo%C3%B6tis,"Tientsin colony the focal point of the UPP UA conflict, The terrain is mainly terrestrial composed of island chains an archipelagos with dense jungles and wetland surrounded by deep alkaline seas." 
+458,Arcturus Alpha Boötis,,UA,online
+467,,DT Virginis,Frontier,online
+472,Gl 902,Twilight,Frontier,online
+478,CC Eridani,,Unaffiliated,online
+480,LHS-26 BD+21�652,Perdition,UPP,online
+497,Zeta Doradus,Former site LV-44-40,Frontier,online
+508,29 Gamma Virginis,,UA,online
+511,27 Lambda Serpentis,LV-666,UA,online
+514,49 Delta Capricorni,,Frontier,online
+515,24 Iota Pegasi,,Unaffiliated,online
+529,GJ 2092,Atlas,Frontier,online
+541,Zeta 1 Reticuli,KG-348; Former Site Sevastapol pg271,UA,online
+542,Zeta 2 Reticuli,Calpamos; LV-223; LV426 Acheron; Kathar Station pg271,UA,online,https://avp.fandom.com/wiki/Zeta_Reticuli,"Everything is happening here"
+544,Zeta Trianguli Australis,,Unaffiliated,online
+568,Gl 268 BD+27�1348,Station 949,Frontier,online
+570, Beta Trianguli Australis,, Unaffiliated,online
+576, GJ180 Gl 180,, Unaffiliated,online
+587, 55 Rho 1 Cancri,, Unaffiliated,online
+598, 15 Lambda Aurigae,, Unaffiliated,online
+600, HR3259 BD-12�2449,Alpha I, Unaffiliated,online
+642, Capella 13 Alpha Aurigae,Aa Ab H L, Unaffiliated,online
+645, GL454 BD-09�3413,Riesling, UA,online
+646, 62 G Scorpii A Gl 620.1,, Unaffiliated,online
+653, Innes' Star Gl 422,LTT-4167 RWL-1289, UA,online
+658, HIP67090 (Gl 525),Alphatech KL7 Sungun Station, Frontier,online,https://avp.fandom.com/wiki/HIP_67090,"Station disposes of toxic waste into the star"
+668, NN 3403,Pestron, Frontier,online
+708, Gl 146,Kuliki, Frontier,online
+709, GL471 BD+09�2636,Polar Star, Frontier,online
+717, Ross 627 Gl 427,, Unaffiliated,online
+719, 50 Upsilon Andromedae,, Unaffiliated,online
+723, 25 Theta Ursae Majoris,, Unaffiliated,online
+731, Gl 469,Trono Colony (LV-871), Frontier,online,https://avp.fandom.com/wiki/Gliese_469https://avp.fandom.com/wiki/Gliese_469,"Rocky, Dust Storms, Breathable, Terraforming failure, xeno infestation"
+743, Chione 10 Tauri,, Unaffiliated,online
+751, 60 Beta Aquilae,, Unaffiliated,online
+761, 17 Iota Piscium,, Unaffiliated,online
+765, NN 3637,Zagreus, Frontier,online
+784, 1 Tau 1 Eridani,, Unaffiliated,online
+788, HR6060-G 18 Scorpii,, 3WE,online
+793, NN 3490 B,West Star, Frontier,online
+804, Alpha Fornacis,Novogorod Station, Unaffiliated,online,https://avp.fandom.com/wiki/Alpha_Fornacis,"The system is composed of two stars, a white subgiant named Alpha Fornacis A and a blue straggler named Alpha Fornacis B located at a distance of about 46.03 light-years (14.11 parsecs) Trailward from the Sol System. The system is dominated by a debris disc made up of millions of mineral-rich (tungsten and timonite among others) asteroids and planetoids.[1] Novgorod Station is located in the system orbiting Alpha Fornacis A and several mining outposts are scattered around the system.[1] "
+808, 47 Ursae Majoris,, Unaffiliated,online
+809, GJ 685 26 Draconis,LV-1113, Unaffiliated,online,https://avp.fandom.com/wiki/26_Draconis,"system was the destination of the USCSS Cronus expedition in 2110 when Weyland-Yutani searched to acquired and experiment the Engineer Chemical A0-3959X.91 – 15. They landed on LV-1113"
+832, 42 Alpha Comae Berenices,, Unaffiliated,online
+839, GL481 BD+16�2404,Cryosphere, Frontier,online
+840, 42 Alpha Comae Berenices,, Unaffiliated,online
+843, Rasalhague,, Unaffiliated,online
+845, Wo 9724,Cyclone, Frontier,online
+857, NN 3614,Astyanax, Frontier,online
+871, NN 3892,LV-8215,3WE,online
+873, Gl 326,Bracken's World; Joilet pg261,  UA,online,https://avp.fandom.com/wiki/Bracken%27s_World,"Ocean World, Joliet is a moon with an alphatech mining facility"
+874, Gl 326B,Bracken's World; Joilet pg261, UA,online,https://avp.fandom.com/wiki/Bracken%27s_World,"Ocean World, Joliet is a moon with an alphatech mining facility"
+883, Gl 259,Arceon Station, 3WE,online,https://avp.fandom.com/wiki/Arceon,"Dubbed the "wooden planet",[2] Arceon was a man-made satellite that had been re-purposed by an order of reclusive monks who rejected all modern technology. Originally constructed of metal, it was subsequently clad in wood and turned into a giant floating monastery by the monks. Inside, it consisted of numerous levels, some as much as 100 metres high, that were layered akin to an ant's nest.[3][4] The small planet contained an abbey, libraries, mess halls, communal lavatories and a large glass works, as well as open fields where crops are grown and sheep are reared, lakes and even an extensive sea on one of its lower levels, which acted as a reservoir supplying water to the population. Arceon managed to maintain a thin atmosphere, while at its center a "technology room" is said to maintain and refresh this atmosphere, allowing the monks to survive. Entry to this room is strictly forbidden."
+886, 23 Theta Boötis,, Unaffiliated,online
+900, 111 Tauri,Sutters World, UA,online
+903, 23 Psi Serpentis,, Unaffiliated,online
+907, Alpha Mensae Gl 231.3,, UA,online
+908, Gl 269 B,Leibnitz, UA,online
+910, Gl 514.1,Feldspar, UA,online
+910, GL 514 Gl 514.1,LB-329 Kellerat, UA,online
+913, HD57095 Gl 269,Leibnitz, UA,online
+937, Gl 364,Mach,UA,online
+951, 16 Eta Leporis,, Unaffiliated,online
+954, Alderamin,, Unaffiliated,online
+957, Nu Phoenicis, LV-KR 115, UA,online,https://avp.fandom.com/wiki/LV-KR_115,"Agricultural Colony, homeworld of the swarm"
+962, 19 Draconis,, Unaffiliated,online
+992, Mu Arae,, Unaffiliated,online
+## XXX ???, Alistar 3, ??? "Colony world with farms"
+## XXX ???, Ataegina, Independent, "Medieval technology world"
+## XXX ???, Blior
+## XXX ???, Felicity,???,"Humid Jungle"
+## XXX ???, Korari, https://avp.fandom.com/wiki/Korari, "Jungle, chasms, rivers, mountains, Bioweapons research facility"
+## GL 825 Lacaille 8760, Lucien IV; Titleman Station; Avril, UA, name, https://avp.fandom.com/wiki/Lacaille_8760
+## XXX ???, LV-412, UA, https://avp.fandom.com/wiki/LV-412 "Jungle, Yautja Temples"
+## xxx ???, LV-742, UA https://avp.fandom.com/wiki/LV-742 "Terrestial, Jungle, WY Lab"
+## Midnight https://avp.fandom.com/wiki/Midnight
+## Midsummer
+41606, Origae-6 (Auriga 6),???,Unaffiliated,name, https://en.wikipedia.org/wiki/6_Aurigae,"Destination of the USCSS Covenant"
+## Planet 4, https://avp.fandom.com/wiki/Planet_4, "Engineers homeworld?"
+## LV-1201 https://avp.fandom.com/wiki/LV-1201
+## RLW 1289 https://avp.fandom.com/wiki/RLW_1289
+## Salazar VII https://avp.fandom.com/wiki/Salazar_VII xeno infestation
+## Snorgron https://avp.fandom.com/wiki/Snorgron "Radioactive atmosphere, large lakes, homeworld of the Snorgeth"
+## Than "Metal, Posionous"
+## Todlab LXI (Deep space)
+## Jericho 3 "Mars like"
+## Var "Yautjas, hostile lifeform planet"

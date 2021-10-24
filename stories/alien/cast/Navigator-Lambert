@@ -1,0 +1,57 @@
+{
+    "Full Name": "Ash",
+    "career": "scientist",
+    "Job": "Science Officer",
+    "sex": "Male (hidden synthetic)",
+    "nationality": "United Americas?",
+    "date of birth":  "???",
+    "Age": "2 (appears 30)",
+    "place of birth": "???",
+    "id":  "IDN:  111/C2-01X",
+    "clearance": "FLT:  A    SEC:  AA    MEN:  AA    PHY:  A",
+    "Personality": "calm, collect, intelligent",
+    "Description": "
+    NAME:    Lambert, J. M.
+POST:    Navigator
+ASSIGN:  USCSS Nostromo
+
+SEX:  Female (natural)
+NAT:  United Americas
+DOB:  07 NOV 2093
+POB:  Ontario/Canada-UA
+IDN:  759/L2-01N
+FLT:  B    SEC:  B    MEN:  AB    PHY:  AB
+
+12 May 2112 :  Graduates New Ontario University with Masters of Astro-Cartography.
+
+01 Jun 2112 – 18 Sep 2112 :  Interns in Astro-Cartography Dept. at Ridton Corp, London/UK-EU.
+
+07 Oct 2112 :  Marries Xander Chapman, Director of Astro-Cartography, Ridton Corp. (RC#044812-L)
+
+28 Oct 2112 – 05 Feb 2114 :  Serves as Shipping Lane Trafficator for Farside Lunar Mining (Plymouth/Luna-UA.)
+
+10 Feb 2114 :  Divorces Xander Chapman, former Director of Astro-Cartography, Ridton Corp.  (RC#200219-L)
+
+17 Feb 2114 – 06 Dec 2114 :  Serves as Assistant Navigator on Red Star Lines pleasure cruiser Infinity (Mars-Orion route.) (Flight Status C)
+
+29 Jan 2115 – 01 Aug 2118 :  Serves as Navigator/Comm Officer on Ridton Corp. salvage vessel Leggatt, under Captain Leigh.
+
+13 Sep 2118 :  Marries Lordan Hessutt, Executive Officer on Ridton Corp. salvage vessel Leggatt.
+
+11 Oct 2118 – 19 Dec 2119 :  Serves as Navigator on  Weylan-Yutani scout ship Adowa, under Captain Payne. (Flight Status BC)
+
+03 Jan 2120 :  Divorces Lordan Hessutt,  Executive Officer on Ridton Corp. salvage vessel Leggatt. (WY/REF#37091)
+
+05 Jan 2120 – present :  Serves as Navigator on Weylan-Yutani commercial towing vehicle USCSS Nostromo, under Captain Dallas. (Flight Status B)
+    ",
+    "Appearance": "Clean cut",
+    "Attributes": {"Strength": "4 (+3)", "Wits": "5 (+3)", "Empathy": 2, "Agility": 3},
+    "Health": 4,
+    "Skills": {},
+    "Talent": "Personal Safety, Take Control, Nerves of Steel",
+    "Signature Item": "Photo of daughter",
+    "Gear": [],
+    "Buddy": "",
+    "Rival": "Brett and Parker",
+    "Personal Agenda": "Carry out special order 937"
+}
