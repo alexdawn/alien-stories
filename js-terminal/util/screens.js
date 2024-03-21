@@ -10,33 +10,26 @@ const PW = "admin";
 export async function boot() {
 	clear();
 
-	await type("Welcome to ECMA industries(TM) terminal", {
-		initialWait: 3000
+	await type("Welcome to Weyland-Yuntani DA/UT/UR 2200 terminal", {
+		initialWait: 500
 	});
 
-	await type(["> SET TERMINAL/BOOT", "Loading........................"], {
-		lineWait: 1000
+	await type(["> SET TERMINAL/BOOT", "Loading..."], {
+		lineWait: 500
 	});
 	await type(
 		[
-			".....",
-			"Please wait........",
-			"..........",
-			"...",
-			".",
-			".",
-			".",
-			".",
-			"."
+			"Please wait...",
+			"Connection to MU/TH/UR 9000 - İyánlá established"
 		],
 		{ lineWait: 250 }
 	);
 
-	await type(["OK.", " "]);
+	await type(["OK."]);
 
 	await type(["> SET TERMINAL/LOGON", "USER AUTHENTICATION CHECK"], {
-		lineWait: 1000,
-		finalWait: 3000
+		lineWait: 250,
+		finalWait: 250
 	});
 
 	await pause();
