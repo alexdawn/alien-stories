@@ -20,14 +20,15 @@ const output = [
 
 === UNCSS Solovetsky Island, Magellan Class J SEV ===
 
-* Captain xxxx 3WE
+* Captain Olivia De Champlain 3WE
 * Pilot Andi "Dudge" Dudegon UPP
 * Counsellor Lakota Monroe 3WE (cross trained medic, ambassador)
 * Medic Lloyd Morgan UA (cross trained scientist)
 * Prospector Emily Quintana UA
 * Security Officer Hamidah Amir 3WE (cross trained pilot)
-* Security Officer xxx UA
+* Security Consultant Chunk Miller UA
 * Mechanic Davor Koblenz UPP
+* WY Scientist Dr. Victor Callahan
 * WY Company Rep xxx
 * ICC Inspector Tan Blatchman (cross trained comms)
 

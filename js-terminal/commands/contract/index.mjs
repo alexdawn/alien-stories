@@ -11,7 +11,7 @@ const players = {
     miller: {name: 'Chunk Miller', role: 'security consultant', pay: '400'},
     champlain: {name: 'Oliva De Champlain', role: 'captain', pay: '850'},
     morgan: {name: 'Llyod Morgan', role: 'medical officer', pay: '700'},
-    callahan: {name: 'Victor Callhan', role: 'scientist', pay: '1500', forfeit: 'including a bonus of 200 for having sub-contract his colonial rights to religion'}
+    callahan: {name: 'Victor Callahan', role: 'scientist', pay: '1500', forfeit: 'including a bonus of 200 for having sub-contract his colonial rights to religion'}
 }
 
 const fullOutput = (name, role, pay, forfeit) => `
