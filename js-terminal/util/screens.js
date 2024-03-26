@@ -11,11 +11,11 @@ export async function boot() {
 	clear();
 
 	await type("Welcome to Weyland-Yuntani DA/UT/UR 2200 terminal", {
-		initialWait: 500
+		initialWait: 250
 	});
 
 	await type(["> SET TERMINAL/BOOT", "Loading..."], {
-		lineWait: 500
+		lineWait: 250
 	});
 	await type(
 		[

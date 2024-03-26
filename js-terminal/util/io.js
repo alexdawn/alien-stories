@@ -3,6 +3,7 @@ import { typeSound } from "../sound/index.js";
 import say from "./speak.js";
 import pause from "./pause.js";
 import { loadTemplates } from "./screens.js";
+import advert from "./advert.js";
 
 // Command history
 let prev = getHistory();
@@ -198,7 +199,8 @@ export async function type(
 	});
 }
 
-export function isPrintable(keycode) {
+export function isPrintable(event) {
+	const keycode = event.keyCode;
 	return (
 		(keycode > 47 && keycode < 58) || // number keys
 		keycode === 32 || // spacebar & return key(s) (if you want to allow carriage returns)
@@ -271,7 +273,7 @@ export async function input(pw) {
 				}
 			}
 			// Check if character can be shown as output (skip if CTRL is pressed)
-			else if (isPrintable(event.keyCode) && !event.ctrlKey) {
+			else if (isPrintable(event) && !event.ctrlKey) {
 				event.preventDefault();
 				// Wrap the character in a span
 				let span = document.createElement("span");
@@ -279,9 +281,7 @@ export async function input(pw) {
 				let keyCode = event.keyCode;
 				let chrCode =
 					keyCode - 48 * Math.floor(keyCode / 48);
-				let chr = String.fromCharCode(
-					96 <= keyCode ? chrCode : keyCode
-				);
+				let chr = event.key
 				// Add span to the input
 				span.classList.add("char");
 				span.textContent = chr;
@@ -325,14 +325,22 @@ export async function parse(input) {
 	if (!input) {
 		return;
 	}
+
+	await advert(5);
 	// Only allow words, separated by space
-	let matches = String(input).match(/^(\w+(?:(?:\s|-)\w+)*)$/);
+	// ?: are non-capturing groups
+	// \w alphanumeric and underscore
+	// \s whitespace
+
+	// either match quoted text or non-quoted word which is anything apart from whitespace
+	let matches = String(input).match(/("[^"]+"|[^\s"]+)/g);
 
 	if (!matches) {
 		throw new Error("Invalid command");
 	}
-	let command = matches[1];
-	let args = matches[2];
+
+	let command = matches[0];
+	let args = matches.slice(1);
 
 	let naughty = ["fuck", "shit", "die", "ass", "cunt"];
 	if (naughty.some((word) => command.includes(word))) {
@@ -371,7 +379,7 @@ export async function parse(input) {
 	await pause();
 
 	// Execute the command (default export)
-	await module.default?.(args);
+	await module.default?.(...args);
 
 	return;
 }

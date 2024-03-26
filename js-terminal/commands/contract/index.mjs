@@ -1,14 +1,26 @@
+import { type } from "../../util/io.js";
+
+
 const output = [
-`NO. 62.584-EM.ICC2
+    'NO. 62.584-EM.ICC2',
+    '',
+    'CONTRACT'
+];
 
-CONTRACT
+const players = {
+    miller: {name: 'Chunk Miller', role: 'security consultant', pay: '400'},
+    champlain: {name: 'Oliva De Champlain', role: 'captain', pay: '850'},
+    morgan: {name: 'Llyod Morgan', role: 'medical officer', pay: '700'},
+    callahan: {name: 'Victor Callhan', role: 'scientist', pay: '1500', forfeit: 'including a bonus of 200 for having sub-contract his colonial rights to religion'}
+}
 
-This binding contract is signed between xxxx
-employed as a xxx aboard the UNCSS Solovetsky island
+const fullOutput = (name, role, pay, forfeit) => `
+This binding contract is signed between ${name}
+employed as a ${role} aboard the UNCSS Solovetsky island
 and the United Nations Interstellar Settlement Corps, for a minimum
 duration of either: four years; or one day after all the Far Spinward
 colonies have been formally assessed (whichever is the sooner), at
-the rate of xxx Weyland-Yutani dollars per expedition week
+the rate of ${pay} Weyland-Yutani dollars per expedition week, ${forfeit ?? ''}
 (one-quarter pay during periods of hypersleep).
 
 ---------------------------------------------------------
@@ -56,7 +68,18 @@ and professionalism, as noted in the Articles of Employment, pages
 Welcome aboard the
 Great Mother Mission!
 ICC
-`
-];
+`;
+
+async function contract(name) {
+    if (name in players) {
+        const player = players[name];
+        await type(fullOutput(player.name, player.role, player.pay, player.forfeit ?? ''));
+    } else {
+        await type(`name ${name} not recognised`);
+    }
+    
+}
 
 export { output };
+
+export default contract;

@@ -11,7 +11,7 @@ const debouncedSave = debounce((value) => {
     localStorage.setItem(KEY_TEXT_EDITOR, value)
 }, 100);
 
-async function textEditor() {
+async function text() {
 
 	return new Promise(resolve => {
         let previous = localStorage.getItem(KEY_TEXT_EDITOR) || '';
@@ -45,4 +45,4 @@ async function textEditor() {
 
 export { output };
 
-export default textEditor;
+export default text;

@@ -1,0 +1,122 @@
+import pause from "./pause.js";
+
+const urlParams = new URLSearchParams(window.location.search);
+const debugParam = urlParams.get("debug") ?? false;
+
+const adverts = [
+	"Weyland Yutani - Building Better Worlds",
+	"Weyland Yutani - Get paid to sleep join the off-world team. Free coffee",
+	"Seegson - Tomorrow, Together.",
+	"Hyperdyne Systems - to err is human, buy a synth!",
+	"Lasalle Bionational - our crops don't fail!",
+	"Borgia Industries - a Weyland subsidiary",
+	"AmArc - powering tomorrow",
+	"Arious Computers - work hard and play hard!",
+	"Arious Motion trackers - hunt down vermin before they breed",
+	"Aten Medical - see what's inside",
+	"Have You Got The CuppaJoe Smile? Stay perky! Freeze-dried CuppaJoe's Coffee.",
+	"Gates-Heidman propulsion - get you there",
+	"Gemba SysTec - Keep track of things",
+	"Generic Electric",
+	"Gustafsson Enterprise Ltd",
+	"Henjin-Garcia Armament Co. Call shotgun!",
+	"Davenport Rye: \"Toast your return with Davenport Rye\". 100% Smooth filtered rye whiskey. Bottled in Elijah Craig Kentucky.",
+	"Karnak Electronics",
+	"Buy Kerchner ammunition",
+	"Take time out for a Koorlander Gold. The surgeon general has determined that cigarette smoking may be harmful to your health.",
+	"Laratel fusion reactors bright as the sun",
+	"Lunnar-Welsun Industries",
+	"Muhler & Milland Electrical and Mechanical",
+	"Wake up from hypersleep with nutritous Court's morning Muesli. Radcliffe Chai Enterprises",
+	"Samani - the watch of astronauts",
+	"San Cristobal Medical: are you insured?",
+	"San Cristobel Dental: \"Smile with confidence\"",
+	"Spearhead Armoury",
+	"Souta Dry - Some things are too good to be savoured. Buy two bottles.",
+	"Souta Larger: Cling. Glug. Ahh - oh",
+	"Watatsumi - lift the world",
+	// "Alphatech Hardware",
+	// "ArmoTech",
+	// "Astar Industries",
+	// "Bodenwerke Gemeinschift",
+	// "Cargo Express",
+	// "Carvalho cuts",
+	// "Catepillar",
+	// "Chigusa Corp",
+	// "Citroen",
+	// "Cygnus",
+	// "Daewoo",
+	// "Daihastu",
+	// "Daihotai all world tractors",
+	// "you need Decisive Solutions",
+	// "Farside Lunar Mining & Lifting",
+	// "Fredco",
+	// "Gemini Expolanet Solutions",
+	// "GeoFund Investor",
+	// "The Globe Corporation",
+	// "Grant Corporation",
+	// "Harley-Davidson",
+	// "Honito Enterprises",
+	// "Javelin Kinetics",
+	// "this looks like a job for JCB",
+	// "John Deere",
+	// "Jutou Combine",
+	// "Jingti Long Corporation",
+	// "Kelland Mining Company",
+	// "Kellard and Howdenshell",
+	// "Kinshasa Enterprise d'Etat Miniere",
+	// "Kleemann",
+	// "Lock-Mark Industries",
+	// "Liebherr",
+	// "Lorenz SysTech Development",
+	// "McAllen Integrations",
+	// "MedTec",
+	// "MetCon",
+	// "Mikoyan-Liu",
+	// "Minecorp",
+	// "Mondo Pest Company",
+	// "National Data Corp",
+	// "National Dynamics",
+	// "Norcomm",
+	// "Omni-Tech",
+	// "Philips",
+	// "Pizza One",
+	// "Polaris",
+	// "Ridton Corp",
+	// "Rimco",
+	// "Rohrmann",
+	// "RyanSpace",
+	// "Sanriku Heavy Industries",
+	// "Schiller Biological",
+	"Seegson Synthetics - working joes for working joes",
+	"Steer City Cattle Company - Yee ha!",
+	"Synsound Corp",
+	"Talbot Enineering Inc.",
+	"Throop Rescue & Recovery",
+	// "TotalEnergies",
+	// "Tyke",
+	// "UA Northridge",
+	// "Venture Corp",
+	// "Verizon",
+	"Weyland Drilling Corp",
+	// "Wirtgen",
+	// "Xarem Corp",
+	// "Yamaha Corp",
+	// "ZCT Corp",
+	"Zippo - light your way"
+];
+
+async function advert(pauseDuration) {
+	if (!debugParam && Math.floor(Math.random() * 3) === 0) {
+		let terminal = document.querySelector(".terminal");
+		let access = document.createElement("div");
+		access.setAttribute("class", "access-granted");
+		const text = adverts[Math.floor(Math.random() * adverts.length)];
+		access.innerHTML = "advert<br/>" + text;
+		terminal.appendChild(access);
+		await pause(pauseDuration);
+		access.remove();
+	}
+}
+
+export default advert;
